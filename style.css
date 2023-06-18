@@ -69,3 +69,11 @@ h{
 .info{
   font-size: 37px;
 }
+
+h2{
+  margin: 15px;
+}
+
+.ruletext{
+  margin: 15px;
+}
