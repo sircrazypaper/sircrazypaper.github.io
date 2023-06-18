@@ -55,7 +55,8 @@ p{
 
 .link{
   color: blue;
-  margin: 15px;
+  margin: 10px;
+  font-size: 20px;
 }
 
 .link:hover{
@@ -125,5 +126,10 @@ td, th {
 
 .aboutinfo{
   font-size: 30px;
+  margin: 15px;
+}
+
+.compinfo2{
+  font-size: 20px;
   margin: 15px;
 }
