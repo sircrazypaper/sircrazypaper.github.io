@@ -77,3 +77,14 @@ h2{
 .ruletext{
   margin: 15px;
 }
+
+.newstitle{
+  font-size: 35px;
+  color: grey;
+}
+
+.news{
+  font-size: 23px;
+  color: grey;
+  margin:20px
+}
