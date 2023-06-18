@@ -52,3 +52,12 @@ body{
 p{
   color:white;
 }
+
+.link{
+  color: blue;
+  margin: 15px;
+}
+
+.link:hover{
+  background-color: #c2c2c2;
+}
