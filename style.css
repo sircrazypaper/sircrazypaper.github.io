@@ -61,3 +61,11 @@ p{
 .link:hover{
   background-color: #c2c2c2;
 }
+
+h{
+  font-size: 60px;
+}
+
+.info{
+  font-size: 37px;
+}
