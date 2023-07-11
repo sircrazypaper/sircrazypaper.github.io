@@ -138,3 +138,13 @@ td, th {
   color: red;
   font-size: 25px
 }
+
+.name{
+  font-size: 50px;
+  margin: 5px;
+}
+
+.eventatcomp{
+  font-size: 17px;
+  font-weight: bold;
+}
