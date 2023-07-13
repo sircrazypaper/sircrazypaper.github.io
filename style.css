@@ -148,3 +148,12 @@ td, th {
   font-size: 17px;
   font-weight: bold;
 }
+
+.competitorspageinfo{
+  font-size: 27px;
+}
+
+.competitors{
+  font-size: 20px;
+  margin: 10px;
+}
