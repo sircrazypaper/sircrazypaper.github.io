@@ -1,0 +1,529 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+.millers{
+  font-size: 35px;
+  font-family: raleway;
+}
+
+.sfbig{
+  font-family: pacifico;
+  font-size: 50px;
+  color: #D24545;
+}
+
+.spacer{
+  color: white;
+}
+
+.containerForIntro{
+  display: flex;
+}
+
+
+
+
+.intro{
+  padding: 30px;
+  width: 45%;
+  font-family: raleway;
+  font-size: 25px;
+}
+
+
+
+.img1{
+  margin: 15px;
+  height:16em;
+   padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.img2{
+  margin:15px;
+  height:16em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForTravel{
+  display: flex;
+}
+
+.travel{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img3{
+   margin:15px;
+  height:14em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForMuni{
+  display: flex;
+}
+
+.muni{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img4{
+   margin:15px;
+  height:14em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForBike{
+  display: flex;
+}
+
+.bike{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img5{
+     margin:15px;
+  height:16em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForCar{
+  display: flex;
+}
+
+.car{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img6{
+  margin:15px;
+  height:21em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForGGB{
+  display: flex;
+}
+
+.ggb{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img7{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForPier{
+  display: flex;
+}
+
+.img8{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.pier{
+   padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.containerForSport{
+  display: flex;
+}
+
+.sport{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img9{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForExp{
+  display: flex;
+}
+
+.exp{
+   padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img10{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForWoods{
+  display: flex;
+}
+
+.woods{
+   padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img11{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForFood{
+  display: flex;
+}
+
+.food{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img12{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForTrestle{
+  display: flex;
+}
+
+.trestle{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img13{
+  margin:15px;
+  height:12em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForFrascati{
+  display: flex;
+}
+
+.frascati{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img14{
+  margin:15px;
+  height:12em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForBurrito{
+  display: flex;
+}
+
+.burrito{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img15{
+  margin:15px;
+  height:15em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForCheap{
+  display: flex;
+}
+
+.cheap{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img16{
+  margin:15px;
+  height:26em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForMid{
+  display: flex;
+}
+
+.mid{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img17{
+  margin:15px;
+  height:25em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromright linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+.containerForLux{
+  display: flex;
+}
+
+.lux{
+  padding: 30px;
+  font-family: raleway;
+  font-size: 25px;
+  width: 45%;
+}
+
+.img18{
+  margin:15px;
+  height:40em;
+  padding: 15px 15px 15px;
+  background-color: #F5EEE6;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 34);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,34);
+  -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+
+  animation: fromleft linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+
+
+p{
+  animation: fade linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+h{
+  animation: fade linear both;
+  animation-timeline: view();
+  animation-range: cover 10% cover 50%;
+}
+
+
+@keyframes fade{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+@keyframes fromleft{
+  0%{
+    transform: translate(-1000px);
+    opacity: 0;
+  }
+  50%{
+    transform: translate(-500px);
+    opacity: 0.5;
+  }
+  100%{
+    transform:translate (0px);
+    opacity: 1;
+  }
+}
+
+@keyframes fromright{
+  0%{
+    transform: translate(1000px);
+    opacity: 0;
+  }
+  50%{
+    transform: translate(500px);
+    opacity: 0.5;
+  }
+  100%{
+    transform:translate (0px);
+    opacity: 1;
+  }
+}
+
+.trustedcompany{
+  font-family: raleway;
+  font-size: 15px;
+  position: absolute;
+  bottom: 2;
+}
+
+body{
+  overflow-x: hidden;
+}
