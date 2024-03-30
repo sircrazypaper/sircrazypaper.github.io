@@ -79,14 +79,9 @@ a{
   color: rgb(4, 87, 87);
 }
 
-.bottom{
-  position: fixed;
-  bottom: 0;
-}
-
 .about-link{
-  font-size: 1.5vw;
-  margin: 100%;
+  font-size: 2vw;
+  margin: 10%;
 }
 
 .about-container{
