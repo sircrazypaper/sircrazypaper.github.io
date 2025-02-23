@@ -1,9 +1,6 @@
 {
 "name": "Shopping App",
 "short_name": "Shopping App",
-"theme_color": "#FFFFFF",
-"background_color": "#FFFFFF",
-"start_url": "",
-"display": "standalone",
-"orientation": "portrait"
+"start_url": "https://sircrazypaper.github.io/",
+"orientation",: "portrait"
 }
