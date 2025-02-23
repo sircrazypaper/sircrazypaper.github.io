@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Solve spilt improvement tool</title>
+  <link rel="icon" type="image/x-icon" href="Favicon for solve splits.png">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+  <h id="big-header">Solve splits improvement guide</h>
+
+  <div class="inputs">
+    <label for="f2l-input">F2L</label>
+    <input type="number" min="0" onkeydown="return event.keyCode !== 69 && event.keyCode !== 189" id="f2l-input"></input>
+    <label for="oll-input">OLL</label>
+    <input type="number" min="0" onkeydown="return event.keyCode !== 69 && event.keyCode !== 189" id="oll-input"></input>
+    <label for="pll-input">PLL</label>
+    <input type="number" min="0" onkeydown="return event.keyCode !== 69 && event.keyCode !== 189" id="pll-input"></input>
+    <button onclick="improvementGuide()">Submit</button>
+  </div>
+
+
+  <div class="improvements">
+    <h id="split-header">Ideal splits for your speed</h>
+    <br>
+    <label for="improve-f2l-by">F2L: </label>
+    <span id="improve-f2l-by"></span>
+    <br>
+    <label for="improve-oll-by">OLL: </label>
+    <span id="improve-oll-by"></span>
+    <br>
+    <label for="improve-pll-by">PLL: </label>
+    <span id="improve-pll-by"></span>
+  </div>
+  <div class="guide">
+    <label id="guide-for-improvement" for="step-to-improve">Guide for your improvement: </label>
+    <br>
+    <span id="step-to-improve"></span>
+  </div>
+    <a class="about-link" href="https://sircrazypaper.github.io/solve-split-tool-about.html">About</a>
+<!-- partial -->
+</body>
+<script type="text/javascript" src="how to improve.js"></script>
+</html>
