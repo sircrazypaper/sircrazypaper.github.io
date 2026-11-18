@@ -45,12 +45,14 @@
 .portfolioSplitter {
     text-align: center;
     text-decoration: underline;
+    padding-top: 50px;
 }
 
 .bigHeader{
     text-align: center;
     font-size: 4rem;
     font-weight: 800;
+    margin: 10px;
 }
 
 .bio{
