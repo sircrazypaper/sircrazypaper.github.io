@@ -1,10 +1,61 @@
 * {
   margin: unset;
   padding: unset;
+  font-family: "Google Sans", sans-serif;
 }
 
-h1{
-  width: 100%;
-  text-align: center;
-  padding-top: 20vh;
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.portfolioItem{
+    border-style: solid ;
+    border-radius: 20px;
+    display: flex;
+    padding: 1vw;
+    max-width: 70%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.portfolioImage{
+    width: 20%
+    max-width: 100%;
+}
+
+.portfolioImage img{
+    border: 2px solid;
+    border-radius: 5px;
+    display: block;
+    max-width: 100%;
+}
+
+.portfolioText{
+    width: 80%;
+    padding-left: 2vw;
+}
+
+.portfolioHeader a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.portfolioSplitter {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.bigHeader{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.bio{
+    padding: 1vw;
+    max-width: 70%;
+    align-items: center;
+    margin: 0 auto;
 }
